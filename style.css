@@ -1,3 +1,13 @@
 .text-blue {
   color: white;
 }
+.icon-img {
+  width: 100%;
+  height: auto;
+}
+.features-icons-icon{
+  height: auto !important;
+}
+.container-fluid{
+  height:auto !important;
+}
