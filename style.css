@@ -11,3 +11,6 @@
 .container-fluid{
   height:auto !important;
 }
+header.masthead {
+    background-image: url("../Images/mainbackground.JPG") !important;
+}
