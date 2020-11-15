@@ -12,5 +12,13 @@
   height:auto !important;
 }
 header.masthead {
-    background-image: url("../Images/mainbackground.JPG") !important;
+    background: url('Images/mainbackground2.jpg');
+}
+div.container a{
+  color:#478fcc
+ background-color:#00000000;
+}
+button.btn.btn-block.btn-ig.btn-primary{
+  color: #478fcc
+  text-align: center !important;
 }
